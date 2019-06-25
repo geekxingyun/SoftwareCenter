@@ -121,6 +121,11 @@ This is a Software Center
 
 下载地址：http://www.yingzixitong.cn/
 
+19.Intellij Idea
+
+推荐理由：最强大最智能的Java 开发IDE
+
+下载地址：http://www.jetbrains.com/idea/
 
 
 
