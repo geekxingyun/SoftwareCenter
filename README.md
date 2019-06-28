@@ -132,3 +132,8 @@ This is a Software Center
 链接：https://pan.baidu.com/s/1iVq0FrLYUYFLivEyhrDZ-Q 
 提取码：30dh 
 
+21. SQL Develper
+
+推荐理由：Oracle 官方推出的Oracle数据库连接工具，免费
+
+下载地址：https://www.oracle.com/technetwork/developer-tools/sql-developer/downloads/index.html
