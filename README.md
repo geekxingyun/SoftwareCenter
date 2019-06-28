@@ -127,13 +127,8 @@ This is a Software Center
 
 下载地址：http://www.jetbrains.com/idea/
 
+20.Oracle 11G R2
 
-
-
-
-
-
-
-
-
+链接：https://pan.baidu.com/s/1iVq0FrLYUYFLivEyhrDZ-Q 
+提取码：30dh 
 
