@@ -9,6 +9,8 @@ This is a Software Center
 
 下载地址：https://www.google.cn/intl/zh-CN/chrome/
 
+Windows 64 离线版下载地址：https://www.google.cn/chrome/?standalone=1&platform=win64
+
 2.QQ 影音
 
 推荐理由：最精简功能最强大的视频播放器
