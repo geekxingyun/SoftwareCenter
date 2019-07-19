@@ -145,3 +145,9 @@ Windows 64 离线版下载地址：https://www.google.cn/chrome/?standalone=1&pl
 推荐理由:免费的FTP 客户端和服务端
 
 下载地址: https://filezilla-project.org/
+
+23. iMovie 
+
+推荐理由:iMovie 是苹果公司推出的视频编辑软件，面向大众，免费使用,功能强大
+
+下载地址:https://support.apple.com/imovie
