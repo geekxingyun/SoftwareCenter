@@ -29,7 +29,7 @@ Windows 64 离线版下载地址：https://www.google.cn/chrome/?standalone=1&pl
 
 官方下载地址:http://www.internetdownloadmanager.com/
 
-当前破解最新版：IDM 6.32 Build 6,这里不提供下载地址，需要的发邮件给我.
+激活最新版：IDM 6.35 Build 3,这里不提供下载地址，需要的[发邮件给我](fairy_xingyun@hotmail.com)
 
 5. 7Zip
 
@@ -151,3 +151,18 @@ Windows 64 离线版下载地址：https://www.google.cn/chrome/?standalone=1&pl
 推荐理由:iMovie 是苹果公司推出的视频编辑软件，面向大众，免费使用,功能强大
 
 下载地址:https://support.apple.com/imovie
+
+23. Typora 
+
+推荐理由:最好用的Markdown PC编辑器,支持Windows,Mac OS,Linux.
+
+下载地址:https://www.typora.io/
+
+24. Visual Code
+
+推荐理由：最强大的多文本编辑器兼开发IDE,甚至Java后端开发IDE排行榜中仅次于Intellij Idea.
+
+下载地址:https://code.visualstudio.com
+
+
+
